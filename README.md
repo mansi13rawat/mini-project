@@ -1,5 +1,5 @@
 # mini-project
-National institute of technology Silchar\n
+National institute of technology Silchar
 mini project-1
 Data Structures
 course code: CS201
